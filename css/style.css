@@ -1,0 +1,29 @@
+@font-face {
+   font-family: Pacifico;
+   src: url('../fonts/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2') format('woff');
+   font-weight: 400;
+   font-style: normal;
+}
+
+body {
+   margin: auto;
+   width: 1600px;
+   height: 2494px;
+}
+
+header {
+   background-image: url('../img/large-banner-image.png');
+   height: 700px;
+}
+
+header > h1 {
+   padding-top: 120px;
+   font-family: Pacifico, sans-serif;
+   font-size: 60px;
+   text-align: center;
+}
+
+header > p {
+   font-family: 'Raleway Light', sans-serif;
+   font-size: 36px;
+}
